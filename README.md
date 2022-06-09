@@ -1,4 +1,4 @@
-# Fork of Luke's build of st
+# Fork of Luke's build of st - Suckless
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
