@@ -62,6 +62,8 @@ The `alpha` value (for transparency) goes from `0` (transparent) to `1` (opaque)
 
 ### Colors
 
+Need to add .Xresources and load it on start if want other than default.
+
 To be clear about the color settings:
 
 - This build will use gruvbox colors by default and as a fallback.
